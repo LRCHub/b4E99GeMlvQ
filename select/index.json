@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "SHO - ProBox (OFFICIAL MUSIC VIDEO)",
+  "base_artist": "SHO",
+  "createdAt": "2026-03-13T05:26:53.732462Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sho' Nuff",
+      "artist": "Sly, Slick & Wicked",
+      "has_synced": false,
+      "path": "select/01_Sho'_Nuff_Sly,_Slick_&_Wicked.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sho Nuff",
+      "artist": "Fatboy Slim",
+      "has_synced": false,
+      "path": "select/02_Sho_Nuff_Fatboy_Slim.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hamrah Sho Aziz",
+      "artist": "Mohsen Namjoo",
+      "has_synced": true,
+      "path": "select/03_Hamrah_Sho_Aziz_Mohsen_Namjoo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Sho' Love You",
+      "artist": "Wilson Pickett",
+      "has_synced": false,
+      "path": "select/04_I_Sho'_Love_You_Wilson_Pickett.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bo fo Sho",
+      "artist": "Bo Burnham",
+      "has_synced": false,
+      "path": "select/05_Bo_fo_Sho_Bo_Burnham.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Funky Music Sho Nuff Turns Me On",
+      "artist": "The Temptations",
+      "has_synced": true,
+      "path": "select/06_Funky_Music_Sho_Nuff_Turns_Me_On_The_Temptations.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sho' Would Be Nice",
+      "artist": "The Osmonds",
+      "has_synced": false,
+      "path": "select/07_Sho'_Would_Be_Nice_The_Osmonds.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sho' Would Be Nice",
+      "artist": "Osmonds, The",
+      "has_synced": false,
+      "path": "select/08_Sho'_Would_Be_Nice_Osmonds,_The.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sho-Nuff'",
+      "artist": "KC and the Sunshine Band",
+      "has_synced": false,
+      "path": "select/09_Sho-Nuff'_KC_and_the_Sunshine_Band.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sho-Nuff",
+      "artist": "Kc & The Sunshine Band",
+      "has_synced": false,
+      "path": "select/10_Sho-Nuff_Kc_&_The_Sunshine_Band.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Funky Music Sho Nuff Turns Me On",
+      "artist": "Edwin Starr",
+      "has_synced": true,
+      "path": "select/11_Funky_Music_Sho_Nuff_Turns_Me_On_Edwin_Starr.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Sho Do",
+      "artist": "Bonnie Raitt",
+      "has_synced": true,
+      "path": "select/12_I_Sho_Do_Bonnie_Raitt.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sho' You Right",
+      "artist": "Barry White",
+      "has_synced": false,
+      "path": "select/13_Sho'_You_Right_Barry_White.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sho You Right",
+      "artist": "Barry White",
+      "has_synced": false,
+      "path": "select/14_Sho_You_Right_Barry_White.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sho you right",
+      "artist": "Barry White - Marvin Gaye",
+      "has_synced": false,
+      "path": "select/15_Sho_you_right_Barry_White_-_Marvin_Gaye.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ProBox",
+      "artist": "SHO",
+      "has_synced": false,
+      "path": "select/pl_01_ProBox_SHO.txt"
+    }
+  ]
+}
